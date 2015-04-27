@@ -28,7 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		499BA3CE1A9A8CC4008AD6EA /* MapPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MapPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		499BA3CE1A9A8CC4008AD6EA /* Stebbins.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Stebbins.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		499BA3D21A9A8CC4008AD6EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		499BA3D31A9A8CC4008AD6EA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		499BA3D51A9A8CC5008AD6EA /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -74,7 +74,7 @@
 		499BA3CF1A9A8CC4008AD6EA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				499BA3CE1A9A8CC4008AD6EA /* MapPractice.app */,
+				499BA3CE1A9A8CC4008AD6EA /* Stebbins.app */,
 				499BA3E51A9A8CC6008AD6EA /* MapPracticeTests.xctest */,
 			);
 			name = Products;
@@ -136,7 +136,7 @@
 			);
 			name = MapPractice;
 			productName = MapPractice;
-			productReference = 499BA3CE1A9A8CC4008AD6EA /* MapPractice.app */;
+			productReference = 499BA3CE1A9A8CC4008AD6EA /* Stebbins.app */;
 			productType = "com.apple.product-type.application";
 		};
 		499BA3E41A9A8CC6008AD6EA /* MapPracticeTests */ = {
@@ -176,7 +176,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 499BA3C91A9A8CC4008AD6EA /* Build configuration list for PBXProject "MapPractice" */;
+			buildConfigurationList = 499BA3C91A9A8CC4008AD6EA /* Build configuration list for PBXProject "Stebbins" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -349,7 +349,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = MapPractice/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = MapPractice;
+				PRODUCT_NAME = Stebbins;
 				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
@@ -362,7 +362,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = MapPractice/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = MapPractice;
+				PRODUCT_NAME = Stebbins;
 				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
@@ -404,7 +404,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		499BA3C91A9A8CC4008AD6EA /* Build configuration list for PBXProject "MapPractice" */ = {
+		499BA3C91A9A8CC4008AD6EA /* Build configuration list for PBXProject "Stebbins" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				499BA3ED1A9A8CC6008AD6EA /* Debug */,

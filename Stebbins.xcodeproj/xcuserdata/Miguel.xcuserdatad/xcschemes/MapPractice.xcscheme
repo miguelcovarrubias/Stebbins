@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "499BA3CD1A9A8CC4008AD6EA"
-               BuildableName = "MapPractice.app"
+               BuildableName = "Stebbins.app"
                BlueprintName = "MapPractice"
-               ReferencedContainer = "container:MapPractice.xcodeproj">
+               ReferencedContainer = "container:Stebbins.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -31,7 +31,7 @@
                BlueprintIdentifier = "499BA3E41A9A8CC6008AD6EA"
                BuildableName = "MapPracticeTests.xctest"
                BlueprintName = "MapPracticeTests"
-               ReferencedContainer = "container:MapPractice.xcodeproj">
+               ReferencedContainer = "container:Stebbins.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -49,7 +49,7 @@
                BlueprintIdentifier = "499BA3E41A9A8CC6008AD6EA"
                BuildableName = "MapPracticeTests.xctest"
                BlueprintName = "MapPracticeTests"
-               ReferencedContainer = "container:MapPractice.xcodeproj">
+               ReferencedContainer = "container:Stebbins.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "499BA3CD1A9A8CC4008AD6EA"
-            BuildableName = "MapPractice.app"
+            BuildableName = "Stebbins.app"
             BlueprintName = "MapPractice"
-            ReferencedContainer = "container:MapPractice.xcodeproj">
+            ReferencedContainer = "container:Stebbins.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -72,13 +72,14 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "499BA3CD1A9A8CC4008AD6EA"
-            BuildableName = "MapPractice.app"
+            BuildableName = "Stebbins.app"
             BlueprintName = "MapPractice"
-            ReferencedContainer = "container:MapPractice.xcodeproj">
+            ReferencedContainer = "container:Stebbins.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -90,13 +91,14 @@
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "499BA3CD1A9A8CC4008AD6EA"
-            BuildableName = "MapPractice.app"
+            BuildableName = "Stebbins.app"
             BlueprintName = "MapPractice"
-            ReferencedContainer = "container:MapPractice.xcodeproj">
+            ReferencedContainer = "container:Stebbins.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

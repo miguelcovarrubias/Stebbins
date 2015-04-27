@@ -2,8 +2,8 @@
 //  SecondViewController.swift
 //  MapPractice
 //
-//  Created by Miguel Sanchez on 2/22/15.
-//  Copyright (c) 2015 Miguel Sanchez. All rights reserved.
+//  Created by Stebbins on 2/22/15.
+//  Copyright (c) 2015 UCD All rights reserved.
 //
 
 import UIKit
@@ -34,7 +34,7 @@ class SecondViewController: UIViewController, UITableViewDelegate, UITableViewDa
     
     func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
         
-        var cell:UITableViewCell = self.tableView.dequeueReusableCellWithIdentifier("cell") as UITableViewCell //create new UITableViewCell var
+        var cell:UITableViewCell = self.tableView.dequeueReusableCellWithIdentifier("cell") as! UITableViewCell //create new UITableViewCell var
         cell.textLabel?.text = self.items[indexPath.row] //set each row as array of text created
         return cell
     }
